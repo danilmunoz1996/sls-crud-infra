@@ -1,0 +1,5 @@
+{
+    "project_name": "sls-infra",
+    "model": "user",
+    "model_class_name": "User"
+}
